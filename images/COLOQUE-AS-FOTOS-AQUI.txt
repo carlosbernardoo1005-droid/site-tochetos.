@@ -1,0 +1,3 @@
+Coloque aqui as fotos dos cortes: corte-1.jpg, corte-2.jpg ... corte-6.jpg
+(ou use outros nomes e ajuste a lista "galeria" em js/config.js).
+Dica: fotos na vertical (proporção 4:5), até 300 KB cada, para o site carregar rápido.
